@@ -5,3 +5,5 @@ Demo World
 Changes from online editor
 
 Changes with push or (fetch and merge)
+
+This change is done locally
